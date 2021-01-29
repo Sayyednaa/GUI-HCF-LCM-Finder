@@ -13,7 +13,7 @@ class Main_Code:
         # Labels
 
         title=Label(self.root,text="HCF/GCD Finder",font=("times new roman",30),bg="green",fg="white").place(x=0,y=0,relwidth=1)
-        title2=Label(self.root,text="Developer: Sayyed Nawab Abdul Ali\n Github:- https://github.com/Sayyednaa/GUI-Hcf-Finder",font=("times new roman",10),).place(x=0,y=50,relwidth=1)
+        title2=Label(self.root,text="Developer : Sayyed Nawab Abdul Ali\n Github:- https://github.com/Sayyednaa/GUI-Hcf-Finder",font=("times new roman",10),).place(x=0,y=50,relwidth=1)
        
 
         number1=Label(self.root,text="Enter First Number:",font=("times new roman",15)).place(x=25,y=100)
