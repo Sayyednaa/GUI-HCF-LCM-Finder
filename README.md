@@ -1,5 +1,5 @@
 
-# GUI HCF Finder
+# GUI HCF-LCM Finder
 
 ## Introduction
 
