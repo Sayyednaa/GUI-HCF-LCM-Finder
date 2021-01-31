@@ -1,5 +1,5 @@
 from tkinter import*
-from lcm import find_gcd
+from main import find_gcd
 from tkinter import messagebox
 
 
@@ -44,8 +44,7 @@ class Main_Code:
         x=int(self.Fnumber.get())
         y=int(self.Snumber.get())
 
-        # Result=lcm.compute_lcm(x,y)
-        # Text=(f'The LCM Of {x} and {y} is {Result}')
+        
             
            
 
